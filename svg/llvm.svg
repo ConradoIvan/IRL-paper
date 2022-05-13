@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="125.80332mm"
+   height="41.766846mm"
+   viewBox="0 0 125.80332 41.766846"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="dessin.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.49798681"
+     inkscape:cx="-231.93385"
+     inkscape:cy="289.16428"
+     inkscape:window-width="1916"
+     inkscape:window-height="1033"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:0.625;stroke-linejoin:round"
+         id="path45668" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker45997"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path45995" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path45650" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-56.356346,-165.52348)">
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.00542px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';stroke-width:0.264583"
+       x="55.984276"
+       y="173.18123"
+       id="text2840"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="55.984276"
+         y="173.18123"
+         id="tspan7464">Source code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:0.926042px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';stroke-width:0.264583"
+       x="149.59114"
+       y="172.63416"
+       id="text8858"><tspan
+         sodipodi:role="line"
+         id="tspan8856"
+         style="stroke-width:0.264583"
+         x="149.59114"
+         y="172.63416">Target code</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1em;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';white-space:pre;inline-size:45.7302;stroke-width:0.264583"
+       x="98.284225"
+       y="78.7043"
+       id="text9852"
+       transform="translate(-1.5241582,91.107628)"><tspan
+         x="98.284225"
+         y="78.7043"
+         id="tspan46293"><tspan
+   style="text-align:center;text-anchor:middle"
+   id="tspan46291">Intermediate</tspan>
+</tspan><tspan
+         x="98.284225"
+         y="84.348739"
+         id="tspan46295">representation</tspan></text>
+    <g
+       id="g27236"
+       transform="translate(0,-1.149806)">
+      <rect
+         style="fill:#ffd5d5;stroke:#ff8080;stroke-width:0.705556;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect26110"
+         width="28.085789"
+         height="8.6078844"
+         x="59.37355"
+         y="190.32622"
+         rx="1.0341107"
+         ry="1.5533211" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:0.926042px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';stroke-width:0.264583"
+         x="63.837708"
+         y="196.10052"
+         id="text27151"><tspan
+           sodipodi:role="line"
+           id="tspan27149"
+           style="stroke-width:0.264583"
+           x="63.837708"
+           y="196.10052">.c/.cpp</tspan></text>
+    </g>
+    <g
+       id="g27236-3"
+       transform="translate(92.450694,-1.149806)">
+      <rect
+         style="fill:#ffd5d5;stroke:#ff8080;stroke-width:0.705556;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect26110-6"
+         width="28.085789"
+         height="8.6078844"
+         x="59.37355"
+         y="190.32622"
+         rx="1.0341107"
+         ry="1.5533211" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:0.926042px;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';stroke-width:0.264583"
+         x="64.676933"
+         y="196.68481"
+         id="text27151-7"><tspan
+           sodipodi:role="line"
+           id="tspan27149-5"
+           style="stroke-width:0.264583"
+           x="64.676933"
+           y="196.68481">RISCV</tspan></text>
+    </g>
+    <g
+       id="g45003"
+       transform="translate(2.7343454,-2.978621)">
+      <rect
+         style="fill:#ffaaaa;stroke:#280b0b;stroke-width:0.705556;paint-order:fill markers stroke;stop-color:#000000"
+         id="rect27296"
+         width="28.631529"
+         height="26.914379"
+         x="102.59168"
+         y="183.00179"
+         rx="1.0341107"
+         ry="1.5533211" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;line-height:1em;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans, Normal';text-align:center;text-anchor:middle;white-space:pre;inline-size:30.6034;fill:#000000;stroke-width:0.264583"
+         x="164.85431"
+         y="194.49222"
+         id="text29390"
+         transform="translate(-48.053157,-2.1205023)"><tspan
+           x="164.85431"
+           y="194.49222"
+           id="tspan46297">.bc
+</tspan><tspan
+           x="164.85431"
+           y="200.13666"
+           id="tspan46299">LLVM
+</tspan><tspan
+           x="164.85431"
+           y="205.7811"
+           id="tspan46301">bytecode
+</tspan><tspan
+           x="164.85431"
+           y="211.42554"
+           id="tspan46303">
+</tspan></text>
+    </g>
+  </g>
+</svg>
